@@ -1,5 +1,10 @@
 # MicrosoftGraph
 
+Details from Microsoft
+~~~~~
+https://docs.microsoft.com/en-us/powershell/module/microsoft.graph.groups/get-mggroup?source=recommendations&view=graph-powershell-1.0
+~~~~~
+
 Install Graph 
 
 ~~~~~
